@@ -1,0 +1,9 @@
+class
+NewWorld{
+public
+static
+void
+main(String[]a){
+System.out.print("Hello"+','+'\u0020'+"World"+'!');
+}
+}
